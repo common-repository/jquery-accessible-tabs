@@ -1,0 +1,17 @@
+#tabsdemo-1{
+	max-width:400px;
+ }
+
+ #tabsdemo-2{
+	max-width:400px;
+ }
+ 
+ #tabsdemo-3{
+	max-width:400px;
+ }
+
+#tabs {
+    min-width: 100px;
+	max-width:800px;
+ }
+
